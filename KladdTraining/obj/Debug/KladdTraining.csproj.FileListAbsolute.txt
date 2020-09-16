@@ -1,0 +1,7 @@
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\bin\Debug\KladdTraining.exe.config
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\bin\Debug\KladdTraining.exe
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\bin\Debug\KladdTraining.pdb
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\obj\Debug\KladdTraining.csprojAssemblyReference.cache
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\obj\Debug\KladdTraining.csproj.CoreCompileInputs.cache
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\obj\Debug\KladdTraining.exe
+G:\Coding\repos\ITHS .NET Benya C.T repo\CSharp\Benya-C.T-ITHS-CSHARP\KladdTraining\obj\Debug\KladdTraining.pdb
