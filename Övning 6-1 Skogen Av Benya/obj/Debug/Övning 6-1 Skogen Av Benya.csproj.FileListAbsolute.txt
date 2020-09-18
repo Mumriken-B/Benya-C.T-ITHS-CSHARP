@@ -1,7 +1,0 @@
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\bin\Debug\Övning 6-1 Skogen Av Benya.exe.config
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\bin\Debug\Övning 6-1 Skogen Av Benya.exe
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\bin\Debug\Övning 6-1 Skogen Av Benya.pdb
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\obj\Debug\Övning 6-1 Skogen Av Benya.csprojAssemblyReference.cache
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\obj\Debug\Övning 6-1 Skogen Av Benya.csproj.CoreCompileInputs.cache
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\obj\Debug\Övning 6-1 Skogen Av Benya.exe
-G:\Coding\repos\Övning 6-1 Skogen Av Benya\obj\Debug\Övning 6-1 Skogen Av Benya.pdb

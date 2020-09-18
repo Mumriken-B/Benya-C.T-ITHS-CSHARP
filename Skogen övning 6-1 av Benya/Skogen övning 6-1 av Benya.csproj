@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EA1669F2-6C37-41DD-A408-241323B612C9}</ProjectGuid>
+    <ProjectGuid>{06496338-86DE-4000-BEDD-E9A4C88052DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Övning_6_1_Skogen_Av_Benya</RootNamespace>
-    <AssemblyName>Övning 6-1 Skogen Av Benya</AssemblyName>
+    <RootNamespace>Skogen_övning_6_1_av_Benya</RootNamespace>
+    <AssemblyName>Skogen övning 6-1 av Benya</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalProperties.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
