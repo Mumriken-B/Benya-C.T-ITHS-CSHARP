@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Data.Odbc;
-using System.Dynamic;
 using System.Linq;
-using System.Net.NetworkInformation;
-using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -15,17 +11,23 @@ namespace KladdTraining
     {
         static void Main(string[] args)
         {
-
-            int[] siffror = new int[3];
-            siffror[0] = 11;
-            siffror[1] = 785;
-            siffror[2] = 4;
-
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine(siffror[i]);
-            }
-
+            Car car = new Car("Volvo", 2010);
+            Console.WriteLine($"En {car.model} som är {car.year} och är nu {car.age} år {(car.age < 5?"ny":"gammal")}");
         }
     }
+
+   
+    class Car
+    {
+        public string model;
+        public int year;
+        public int age; 
+        public Car(string modelName, int modelYear)
+        {
+            model = modelName;
+            year = modelYear;
+            age = 2020 - modelYear;
+        }
+    }
+    
 }

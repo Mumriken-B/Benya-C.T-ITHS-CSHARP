@@ -30,6 +30,10 @@ namespace Övning_6_1_Skogen_Av_Benya
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+
+          
             AnimalProperties animalv = new AnimalProperties();
             animalv.Name = "Varg";
             animalv.nocturnal = true;
@@ -55,10 +59,10 @@ namespace Övning_6_1_Skogen_Av_Benya
             animalö.nightmessage = "Örnen sover";
             animalö.daymessage = "Örnen flyger och letar efter sitt byte under dagen";
 
-            Console.WriteLine("Se natt eller dag? (D/N)");
-
-            ConsoleKeyInfo key = Console.ReadKey();
-            Console.Clear();
+                Console.WriteLine("Se natt eller dag? (D/N)");
+                ConsoleKeyInfo key = Console.ReadKey();
+                
+                Console.Clear();
             if (key.KeyChar == 'd')
             {
                 Console.WriteLine("Det är dag! Så här beter djuren sig:");
@@ -80,7 +84,8 @@ namespace Övning_6_1_Skogen_Av_Benya
                 Console.WriteLine("Använd korrekt bokstav");
             }
             Console.ReadKey();
-
+                Console.Clear();
+            }
         }
     }
 }
